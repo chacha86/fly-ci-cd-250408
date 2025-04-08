@@ -1,3 +1,7 @@
 spring:
   application:
     name: fly-ci-cd
+
+logging:
+  level:
+    com.example: DEBUG
